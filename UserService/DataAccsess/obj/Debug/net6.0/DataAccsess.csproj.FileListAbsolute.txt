@@ -2,9 +2,7 @@ C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\bin\Debug\net6.0\D
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\bin\Debug\net6.0\DataAccsess.dll
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\bin\Debug\net6.0\DataAccsess.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\bin\Debug\net6.0\Data.dll
-C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\bin\Debug\net6.0\Store.dll
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\bin\Debug\net6.0\Data.pdb
-C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\bin\Debug\net6.0\Store.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\obj\Debug\net6.0\DataAccsess.csproj.AssemblyReference.cache
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\obj\Debug\net6.0\DataAccsess.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\obj\Debug\net6.0\DataAccsess.AssemblyInfoInputs.cache
@@ -15,3 +13,5 @@ C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\obj\Debug\net6.0\D
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\obj\Debug\net6.0\refint\DataAccsess.dll
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\obj\Debug\net6.0\DataAccsess.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\obj\Debug\net6.0\ref\DataAccsess.dll
+C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\bin\Debug\net6.0\DataAccsess.runtimeconfig.json
+C:\Users\harun\source\repos\Beginner1\UserService\DataAccsess\obj\Debug\net6.0\DataAccsess.genruntimeconfig.cache

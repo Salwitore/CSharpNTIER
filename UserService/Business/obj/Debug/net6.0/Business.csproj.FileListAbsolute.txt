@@ -3,10 +3,8 @@ C:\Users\harun\source\repos\Beginner1\UserService\Business\bin\Debug\net6.0\Busi
 C:\Users\harun\source\repos\Beginner1\UserService\Business\bin\Debug\net6.0\Business.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\Business\bin\Debug\net6.0\Data.dll
 C:\Users\harun\source\repos\Beginner1\UserService\Business\bin\Debug\net6.0\DataAccsess.dll
-C:\Users\harun\source\repos\Beginner1\UserService\Business\bin\Debug\net6.0\Store.dll
 C:\Users\harun\source\repos\Beginner1\UserService\Business\bin\Debug\net6.0\DataAccsess.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\Business\bin\Debug\net6.0\Data.pdb
-C:\Users\harun\source\repos\Beginner1\UserService\Business\bin\Debug\net6.0\Store.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
 C:\Users\harun\source\repos\Beginner1\UserService\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\harun\source\repos\Beginner1\UserService\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache

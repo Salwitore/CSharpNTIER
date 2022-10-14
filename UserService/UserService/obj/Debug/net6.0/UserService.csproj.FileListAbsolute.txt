@@ -29,7 +29,13 @@ C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\D
 C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Data.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Business.dll
 C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\DataAccsess.dll
-C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Store.dll
 C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Business.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\DataAccsess.pdb
-C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Store.pdb
+C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Humanizer.dll
+C:\Users\harun\source\repos\Beginner1\UserService\UserService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

@@ -10,3 +10,5 @@ C:\Users\harun\source\repos\Beginner1\UserService\Data\obj\Debug\net6.0\Data.dll
 C:\Users\harun\source\repos\Beginner1\UserService\Data\obj\Debug\net6.0\refint\Data.dll
 C:\Users\harun\source\repos\Beginner1\UserService\Data\obj\Debug\net6.0\Data.pdb
 C:\Users\harun\source\repos\Beginner1\UserService\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\harun\source\repos\Beginner1\UserService\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\harun\source\repos\Beginner1\UserService\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
